@@ -15,10 +15,11 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"```":{
+	"``":{
 		"prefix":"```jsx",
-		"body":["```jsx
-		```"],
-		"description":"no"
+		"body":["```jsx",
+		"$1",
+		"```"],
+		"description":"jsx"
 	}
 }
