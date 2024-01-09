@@ -8,6 +8,7 @@ creaetApp({
     }
 }).mount('#app')
 
-<template>
-
+<template> 
+ <p>this is ipad test</p>
+ how can i save this?
 </template>
